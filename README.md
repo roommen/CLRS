@@ -1,2 +1,2 @@
 # CLRS
-Solved questions from CLRS book
+My attempt at solving the questions from the CLRS book in C++
